@@ -12,11 +12,11 @@ const education = [
   },
   {
     label: 'HIGH SCHOOL',
-    description: 'UNIVERSIDAD DE STA. ISABEL PILI CAMPUS 2011-2015',
+    description: 'UNIVERSIDAD DE STA. ISABEL',
   },
   {
     label: 'ELEMENTARY',
-    description: 'CAROYROYAN PILI CAMARINES SUR 2006-2011',
+    description: 'CAROYROYAN PILI CAMARINES SUR',
   },
 ];
 

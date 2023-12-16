@@ -20,7 +20,7 @@ const About = () => {
         <Box sx={{ maxWidth: '700px', padding: '10px' }}>
           <CardContent sx={{ letterSpacing: '.2rem', fontFamily: 'Poppins' }}>
             <Typography variant="subtitle1" color="text.secondary" component="div" sx={{ maxWidth: { md: '600px', xs: '350px', sm: '500px' }, ml: { xs: '15px' } }}>
-              "🚀I am Jesreel Amorganda, a 2nd Year Student of Naga College Foundation taking the course of Bachelor Science of Computer Science. Enthusiastic student with a strong dedication to academic excellence and personal growth. Eager to explore the intersections of knowledge and creativity, I am passionate about building new things that are connected to technology. Through my studies and extracurricular experiences, I aim to contribute my unique perspective and skills to make a positive impact on the world. ✨"
+              "🚀I am Jesreel Amorganda, a 3rd Year Student of Naga College Foundation taking the course of Bachelor Science of Computer Science. Enthusiastic student with a strong dedication to academic excellence and personal growth. Eager to explore the intersections of knowledge and creativity, I am passionate about building new things that are connected to technology. Through my studies and extracurricular experiences, I aim to contribute my unique perspective and skills to make a positive impact on the world. ✨"
             </Typography>
           </CardContent>
         </Box>
